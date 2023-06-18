@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">حساب المساحات</string>
+    <string name="width">العرض</string>
+    <string name="height">الارتفاع</string>
+    <string name="calculate">احسب</string>
+    <string name="radius">نصف القطر</string>
+    <string name="base">القاعده</string>
+    <string-array name="shapes">
+        <item>مستطيل</item>
+        <item>دائره</item>
+        <item>مثلث</item>
+    </string-array>
+</resources>

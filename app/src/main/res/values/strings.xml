@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Areas</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="radius">Radius</string>
+    <string name="base">Base</string>
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
